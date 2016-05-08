@@ -1,2 +1,2 @@
 # factorial
-Simple factorial computation function
+Simple recursive, factorial computation function
