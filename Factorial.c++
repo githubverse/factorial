@@ -15,9 +15,9 @@ main()
 	cout<<"Compute Factorial"<<endl<<endl;
 
 		//factorial examples
-  cout<<F(0)<<endl;
-  cout<<F(1)<<endl;
-  cout<<F(2)<<endl;
-  cout<<F(3)<<endl;
-  cout<<F(16)<<endl;
+  cout<<" 0!="<<F(0)<<endl;
+  cout<<" 1!="<<F(1)<<endl;
+  cout<<" 2!="<<F(2)<<endl;
+  cout<<" 3!="<<F(3)<<endl;
+  cout<<"16!="<<F(16)<<endl;
 }
