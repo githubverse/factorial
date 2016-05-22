@@ -11,6 +11,10 @@ int F(int n)
 
 main()
 {
+		//shell output
+	cout<<"Compute Factorial"<<endl<<endl;
+
+		//factorial examples
   cout<<F(0)<<endl;
   cout<<F(1)<<endl;
   cout<<F(2)<<endl;
